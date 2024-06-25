@@ -1,64 +1,80 @@
 {
-    "jobTitle": [
-      {
-        "title": "Software Engineer"
-      },
-      {"title": "Administrator"}
-    ],
-    "about": [
-        "write your about section"
-    ],
-    "education": [{
-      "HighSchool": "Spine Road High School",
-      "from":2016,
-      "to":2020
+  "jobTitle": [
+    {
+      "title": "Software Engineer"
     },
-     {
-    "University": "University of Western Cape",
-    "from":2021,
-    "to":2023
-     },
-     {
-        "Academy": "Life Choices Academy",
-        "from":2024,
-        "to":"Present"
-      }],
-
-    "experience": [{
-      "title": "Agent",
-      "company": "Sigma Connected",
-      "city": "Cape Town",
-      "from": "April, 2023",
-      "to": "June, 2023"
+    {
+      "title": "Administrator"
     }
-],
-    "skills": [{
-      "name": "HTML",
-      "level": "Advanced"
-    }, {
+  ],
+  "about": [
+    "I am a hardworking individual who does what is needed to the best of my ability. I communicate very well with others and I am always eager to learn and apply what I was taught.I am very target driven and take utmost pride in the work I do.I take change positively and always have room for improvement.My belief is that one should never be afraid to challenge oneself, to not only do better but to be better, and though the journey may be tough in the end it will be prosperous.Essentially I am committed to adding value to a workplace through hard - work, perseverance, effective communication and active listening."
+  ],
+  "education": [
+    {
+      "HighSchool": "Spine Road High School(2016-2020)",
+      "message": "I graduated with a bachelors certificate at Spine Road High where I was also the Head Girl in my matric year. I was part of many extra curricular activities such as Interfaith, school choir,DIY, and played certain sports such as softball, baseball and volleyball. I also represented my school in 2018 at the South African institute of international affairs that took place in Johannesburg where I gave a presentation about climate change before 5 United Nations members."
+    },
+    {
+      "University": "University of Western Cape(2021-2023)",
+      "message": "I Studied a Bachelor of Science in biodiversity and conservation biology, however due to financial issues with NSFAS I had to drop out at the beginning of my 3rd year."
+    }
+  ],
+
+  "experience": [
+    {
+      "company": "Sigma Connected(2023)",
+      "position": "I worked as an agent at Sigma for 3 months where I was constantly a Top performer. While being there I have attained valuable skills including time management and how to multi-task efficiently."
+    },
+
+    {
+        "company": "LIFE CHOICES(2024-present)",
+        "position": "I am currently studying Software development and attaining various skills sets, such as HTML,CSS,JavaScript and bootstrap." 
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Leadership Skills",
+      "level": "Proficient"
+    },
+    {
       "name": "CSS",
       "level": "Advanced"
-    }, {
+    },
+    {
+      "name": "Communication Skills",
+      "level": "Proficient"
+    },
+    {
+      "name": "HTML",
+      "level": "Advanced"
+    },
+    
+    {
       "name": "JavaScript",
       "level": "Advanced"
-    }, {
-      "name": "PHP",
+    },
+    {
+      "name": "Practical Skills",
       "level": "Advanced"
-    }],
-    
-    "testimonials": [{
+    }
+  ],
+
+  "testimonials": [
+    {
       "name": "Shakeel",
       "surname": "David",
       "message": "I love this company"
-
     },
-{
-
-}
-],
-    "projects": [{
+    {}
+  ],
+  "projects": [
+    {
       "name": "Online Store",
       "description": "This is a store where you can buy things",
-      "link": "https://shakill23.github.io/onlineStore/"
-    }]
-  }
+      "link": "git link",
+      "other-link": "vercel link"
+    }
+  ]
+}
