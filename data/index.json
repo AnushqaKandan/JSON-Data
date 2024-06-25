@@ -1,0 +1,64 @@
+{
+    "jobTitle": [
+      {
+        "title": "Software Engineer"
+      },
+      {"title": "Administrator"}
+    ],
+    "about": [
+        "write your about section"
+    ],
+    "education": [{
+      "HighSchool": "Spine Road High School",
+      "from":2016,
+      "to":2020
+    },
+     {
+    "University": "University of Western Cape",
+    "from":2021,
+    "to":2023
+     },
+     {
+        "Academy": "Life Choices Academy",
+        "from":2024,
+        "to":"Present"
+      }],
+
+    "experience": [{
+      "title": "Agent",
+      "company": "Sigma Connected",
+      "city": "Cape Town",
+      "from": "April, 2023",
+      "to": "June, 2023"
+    }
+],
+    "skills": [{
+      "name": "HTML",
+      "level": "Advanced"
+    }, {
+      "name": "CSS",
+      "level": "Advanced"
+    }, {
+      "name": "JavaScript",
+      "level": "Advanced"
+    }, {
+      "name": "PHP",
+      "level": "Advanced"
+    }],
+    
+    "testimonials": [{
+      "name": "Shakeel",
+      "surname": "David",
+      "message": "I love this company"
+
+    },
+{
+
+}
+],
+    "projects": [{
+      "name": "Online Store",
+      "description": "This is a store where you can buy things",
+      "link": "https://shakill23.github.io/onlineStore/"
+    }]
+  }
