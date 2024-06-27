@@ -13,26 +13,24 @@
     "message": "I am a hardworking individual who does what is needed to the best of my ability. I communicate very well with others and I am always eager to learn and apply what I was taught.I am very target driven and take utmost pride in the work I do.I take change positively and always have room for improvement.My belief is that one should never be afraid to challenge oneself, to not only do better but to be better, and though the journey may be tough in the end it will be prosperous.Essentially I am committed to adding value to a workplace through hard - work, perseverance, effective communication and active listening."
     }
 ],
-  "education": [
+  "resume": [
     {
-      "HighSchool": "Spine Road High School(2016-2020)",
-      "message1": "I graduated with a bachelors certificate at Spine Road High where I was also the Head Girl in my matric year. I was part of many extra curricular activities such as Interfaith, school choir,DIY, and played certain sports such as softball, baseball and volleyball. I also represented my school in 2018 at the South African institute of international affairs that took place in Johannesburg where I gave a presentation about climate change before 5 United Nations members."
+      " place": "Spine Road High School(2016-2020)",
+      "description": "I graduated with a bachelors certificate at Spine Road High where I was also the Head Girl in my matric year. I was part of many extra curricular activities such as Interfaith, school choir,DIY, and played certain sports such as softball, baseball and volleyball. I also represented my school in 2018 at the South African institute of international affairs that took place in Johannesburg where I gave a presentation about climate change before 5 United Nations members."
     },
     {
-      "University": "University of Western Cape(2021-2023)",
-      "message2": "I Studied a Bachelor of Science in biodiversity and conservation biology, however due to financial issues with NSFAS I had to drop out at the beginning of my 3rd year."
-    }
-  ],
-
-  "experience": [
-    {
-      "company": "Sigma Connected(2023)",
-      "position": "I worked as an agent at Sigma for 3 months where I was constantly a Top performer. While being there I have attained valuable skills including time management and how to multi-task efficiently."
+      "place": "University of Western Cape(2021-2023)",
+      "description": "I Studied a Bachelor of Science in biodiversity and conservation biology, however due to financial issues with NSFAS I had to drop out at the beginning of my 3rd year."
     },
 
     {
-        "company": "LIFE CHOICES(2024-present)",
-        "position": "I am currently studying Software development and attaining various skills sets, such as HTML,CSS,JavaScript and bootstrap." 
+      "place": "Sigma Connected(2023)",
+      "description": "I worked as an agent at Sigma for 3 months where I was constantly a Top performer. While being there I have attained valuable skills including time management and how to multi-task efficiently."
+    },
+
+    {
+        "place": "LIFE CHOICES(2024-present)",
+        "description": "I am currently studying Software development and attaining various skills sets, such as HTML,CSS,JavaScript and bootstrap." 
     }
   ],
 
