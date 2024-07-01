@@ -10,9 +10,13 @@
   
   "about": [
     {
-    "message": "I am a hardworking individual who does what is needed to the best of my ability. I communicate very well with others and I am always eager to learn and apply what I was taught.I am very target driven and take utmost pride in the work I do.I take change positively and always have room for improvement.My belief is that one should never be afraid to challenge oneself, to not only do better but to be better, and though the journey may be tough in the end it will be prosperous.Essentially I am committed to adding value to a workplace through hard - work, perseverance, effective communication and active listening."
-    }
+    "message": "I am a hardworking individual who does what is needed to the best of my ability. I communicate very well with others and I am always eager to learn and apply what I was taught.I am very target driven and take utmost pride in the work I do.I take change positively and always have room for improvement.My belief is that one should never be afraid to challenge oneself, to not only do better but to be better, and though the journey may be tough in the end it will be prosperous.Essentially I am committed to adding value to a workplace through hard - work, perseverance, effective communication and active listening.",
+    "name": "Anushqa Tamryn Kandan",
+    "Location": "Mitchell's Plain, Cape Town"
+    
+   }
 ],
+
   "resume": [
     {
       "place": "Spine Road High School(2016-2020)",
@@ -34,27 +38,34 @@
     }
   ],
 
-  "skills": [
+  "skills": [ 
     {
-      "name": "Leadership Skills",
-      "level": "Proficient"
+      "name": "HTML",
+      "level": "Advanced"
     },
     {
       "name": "CSS",
       "level": "Advanced"
     },
     {
-      "name": "Communication Skills",
-      "level": "Proficient"
-    },
-    {
-      "name": "HTML",
+      "name": "Bootstrap",
       "level": "Advanced"
     },
-    
     {
       "name": "JavaScript",
       "level": "Advanced"
+    },
+    {
+      "name": " Vue.JS",
+      "level": "Advanced"
+    },
+    {
+      "name": "Leadership Skills",
+      "level": "Proficient"
+    },
+    {
+      "name": "Communication Skills",
+      "level": "Proficient"
     },
     {
       "name": "Practical Skills",
@@ -70,6 +81,7 @@
     },
     {}
   ],
+
   "projects": [
     {
       "name": "Online Store",
