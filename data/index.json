@@ -75,7 +75,7 @@
   "projects": [
     {
       "name": "Online Store",
-      "description": "An easy and accessible online store that allows you to buy any product you want",
+      "description": "An easy and accessible online store that allows you to buy any product you want"
 
     },
     {
@@ -101,8 +101,7 @@
       "name": "Shakeel",
       "surname": "David",
       "message2": "I love this company"
-    },
-    {}
+    }
   ]
 
 }
