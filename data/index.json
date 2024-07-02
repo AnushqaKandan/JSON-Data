@@ -37,7 +37,7 @@
 
   "skills": [ 
     {
-      "name": "HTML",
+      "name": "HTML5",
       "level": "Advanced"
     },
     {
@@ -70,21 +70,39 @@
     }
   ],
 
-  "testimonials": [
+  
+
+  "projects": [
+    {
+      "name": "Online Store",
+      "description": "An easy and accessible online store that allows you to buy any product you want",
+
+    },
+    {
+     "name": "Calculator", 
+    "description": "Easy way to calculate any expression necessary"
+    },
+    {
+        "name": "Salon" ,
+       "description": "Needed to do your makeup and nails, then look no further"
+
+    },
+    {
+        "name": "Keyboard" ,
+       "description": "An easy way of using a digital keyboard"
+    },
+    {
+        "name": "To-Do List" ,
+       "description": "A website in which you can organize your list of things to do"
+    }
+  ],
+"testimonials": [
     {
       "name": "Shakeel",
       "surname": "David",
       "message2": "I love this company"
     },
     {}
-  ],
-
-  "projects": [
-    {
-      "name": "Online Store",
-      "description": "This is a store where you can buy things",
-      "link": "git link",
-      "other-link": "vercel link"
-    }
   ]
+
 }
