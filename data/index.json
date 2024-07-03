@@ -93,7 +93,11 @@
     },
     {
         "name": "To-Do List" ,
-       "description": "For this project, I developed a to-do list app that helps you organize chores or assignments. It features an easy-to-use interface for adding, sorting, and managing tasks, ensuring you stay on top of your responsibilities and improve productivity. "
+       "description": "For this project, I developed a to-do list app that helps you organize chores or assignments. It features an easy-to-use interface for adding, sorting, and managing tasks, ensuring you stay on top of your responsibilities and improve productivity."
+    },
+    {
+        "name": "Flip-Card" ,
+        "description": "I created a flipcard design, a dynamic and interactive element that displays information on both sides when flipped. This design is perfect for showcasing detailed content in a compact space, enhancing user engagement and visual appeal."
     }
   ],
 "testimonials": [
