@@ -70,7 +70,6 @@
     }
   ],
 
-  
 
   "projects": [
     {
@@ -79,27 +78,29 @@
 
     },
     {
-     "name": "Calculator", 
-    "description": "Here I created a virtual calculator, a software tool that performs arithmetic and scientific calculations. It features a user-friendly interface and advanced functions, providing accurate results for both basic and complex mathematical operations."
+      "name": "Full-stack E-comerce Project",
+      "description": " I developed a full-stack e-commerce platform specializing in the sale of gemstones. The site is designed to provide a seamless and engaging user experience, featuring product filtering, a dynamic cart system, and responsive design to ensure compatibility across devices. The platform also offers an intuitive admin interface for managing products, categories, and various users registered with the platform."
     },
-    {
-        "name": "Salon" ,
-       "description": "I designed a salon poster showcasing various makeup services. It features a stylish graphic and lists options for each service.The vibrant design aims to attract clients and clearly shows what the salon offers."
+   {
+       "name": " NodeJS E-commerce Project" ,
+       "description": "I co-developed a full-stack e-commerce platform focused on selling tech products. Collaborating with a partner, we implemented a user-friendly shopping experience with features such as product filtering and searching. The project emphasized responsive design, ensuring an optimized experience on both desktop and mobile. We also developed an intuitive admin panel for product and user management, streamlining the backend operations for tech sales."
+   },
+   
+   {
+    "name": "Calculator", 
+   "description": "Here I created a virtual calculator, a software tool that performs arithmetic and scientific calculations. It features a user-friendly interface and advanced functions, providing accurate results for both basic and complex mathematical operations."
+   },
+   {
+       "name": "Salon" ,
+      "description": "I designed a salon poster showcasing various makeup services. It features a stylish graphic and lists options for each service.The vibrant design aims to attract clients and clearly shows what the salon offers."
 
-    },
-    {
-        "name": "Keyboard" ,
-       "description": "For my project, I developed a virtual keyboard, a software-based input method that appears on a screen, allowing users to type via touch or mouse clicks. It features customizable layouts, predictive text, and is designed to enhance accessibility and user experience across various devices."
-    },
+   },
     {
         "name": "To-Do List" ,
        "description": "For this project, I developed a to-do list app that helps you organize chores or assignments. It features an easy-to-use interface for adding, sorting, and managing tasks, ensuring you stay on top of your responsibilities and improve productivity."
-    },
-    {
-        "name": "Flip-Card" ,
-        "description": "I created a flipcard design, a dynamic and interactive element that displays information on both sides when flipped. This design is perfect for showcasing detailed content in a compact space, enhancing user engagement and visual appeal."
     }
   ],
+
 "testimonials": [
     {
       "message": "Anushqa is a very bright and hardworking individual who is always striving to do her best. She is extremely kind and her willingness to help others is of admiration. She never ceases to amaze me with her knowledge of coding and is the most down to earth person you can have a conversation with.",
@@ -138,6 +139,5 @@
         "location": "Mitchells Plain, Cape Town"
     }
   ]
-
 }
 
